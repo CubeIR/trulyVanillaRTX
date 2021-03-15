@@ -1,6 +1,6 @@
 Truly Vanilla RTX Normals is a Normal Map based Vanilla RTX resource pack with PBR support.
 If you found here & you are wondering why there aren't any downloads, Truly Vanilla RTX Normals Now has a New home!
-It is longer Available on Github & no longer recieves updates, to download you can head to MCPEDL.COM page or Our Discord server!
+It is longer Available on Github & no longer recieves updates *On github*, to download Latest version you can head to MCPEDL.COM page or Our Discord server!
 THE ONLY Official release/Updates Sources are:
 https://mcpedl.com/truly-vanilla-rtx
 Discord:
